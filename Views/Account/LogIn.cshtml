@@ -1,0 +1,49 @@
+﻿@model UserLoginVM
+@{
+    ViewData["Title"] = "Login";
+}
+
+@{
+    ViewData["Title"] = "Login Page";
+}
+
+<style>
+    .card-body-transparent {
+        /* White with 80% opacity */
+    }
+</style>
+<form asp-action="Login" asp-controller="Account" class="mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow-lg border-0">
+                <div class="card-header text-center text-white rounded-top-3 bg-gradient" style="background-color:#ea39b8;">
+                    <h3>Login</h3>
+                </div>
+                <div class="card-body p-4" >
+                    <!-- Validation Summary -->
+                    <div asp-validation-summary="ModelOnly" class="alert alert-danger rounded-3" role="alert"></div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="UserName" class="form-label mt-4"></label>
+                        <input type="text" class="form-control rounded-3" asp-for="UserName" placeholder="Username">
+                        <span asp-validation-for="UserName" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="Password" class="form-label mt-4"></label>
+                        <input type="password" class="form-control rounded-3" asp-for="Password" placeholder="Password" autocomplete="off">
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+
+                    <div class="d-flex justify-content-start align-items-center mb-3">
+                        <div>
+                            <input type="checkbox" asp-for="RememberMe" id="RememberMe" class="form-check-input">
+                            <label asp-for="RememberMe" class="form-check-label ms-2">Remember me</label>
+                        </div>
+
+                     </div>
+                        <button type="submit" class="btn btn-primary w-100 py-2">Login</button>
+        </div>
+    </div>
+</form>
+
