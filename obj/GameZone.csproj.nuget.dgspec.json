@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programming\\Backend\\MVC\\Projects\\GameZone\\GameZone.csproj": {}
+    "D:\\programming\\Backend\\The projects\\MVC\\GameZone\\GameZone.csproj": {}
   },
   "projects": {
-    "D:\\programming\\Backend\\MVC\\Projects\\GameZone\\GameZone.csproj": {
+    "D:\\programming\\Backend\\The projects\\MVC\\GameZone\\GameZone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programming\\Backend\\MVC\\Projects\\GameZone\\GameZone.csproj",
+        "projectUniqueName": "D:\\programming\\Backend\\The projects\\MVC\\GameZone\\GameZone.csproj",
         "projectName": "GameZone",
-        "projectPath": "D:\\programming\\Backend\\MVC\\Projects\\GameZone\\GameZone.csproj",
+        "projectPath": "D:\\programming\\Backend\\The projects\\MVC\\GameZone\\GameZone.csproj",
         "packagesPath": "C:\\Users\\Ibrahim\\.nuget\\packages\\",
-        "outputPath": "D:\\programming\\Backend\\MVC\\Projects\\GameZone\\obj\\",
+        "outputPath": "D:\\programming\\Backend\\The projects\\MVC\\GameZone\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ibrahim\\AppData\\Roaming\\NuGet\\NuGet.Config",

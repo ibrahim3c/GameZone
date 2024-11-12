@@ -17,67 +17,67 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GameZone
 build_property.RootNamespace = GameZone
-build_property.ProjectDir = D:\programming\Backend\MVC\Projects\GameZone\
+build_property.ProjectDir = D:\programming\Backend\The projects\MVC\GameZone\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\programming\Backend\MVC\Projects\GameZone
+build_property.MSBuildProjectDirectory = D:\programming\Backend\The projects\MVC\GameZone
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/programming/Backend/MVC/Projects/GameZone/Views/Account/AddRole.cshtml]
+[D:/programming/Backend/The projects/MVC/GameZone/Views/Account/AddRole.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBZGRSb2xlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/programming/Backend/MVC/Projects/GameZone/Views/Account/LogIn.cshtml]
+[D:/programming/Backend/The projects/MVC/GameZone/Views/Account/LogIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dJbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/programming/Backend/MVC/Projects/GameZone/Views/Account/Register.cshtml]
+[D:/programming/Backend/The projects/MVC/GameZone/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/programming/Backend/MVC/Projects/GameZone/Views/Games/Create.cshtml]
+[D:/programming/Backend/The projects/MVC/GameZone/Views/Games/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/programming/Backend/MVC/Projects/GameZone/Views/Games/Details.cshtml]
+[D:/programming/Backend/The projects/MVC/GameZone/Views/Games/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/programming/Backend/MVC/Projects/GameZone/Views/Games/Edit.cshtml]
+[D:/programming/Backend/The projects/MVC/GameZone/Views/Games/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/programming/Backend/MVC/Projects/GameZone/Views/Games/Index.cshtml]
+[D:/programming/Backend/The projects/MVC/GameZone/Views/Games/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/programming/Backend/MVC/Projects/GameZone/Views/Home/Index.cshtml]
+[D:/programming/Backend/The projects/MVC/GameZone/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/programming/Backend/MVC/Projects/GameZone/Views/Shared/Error.cshtml]
+[D:/programming/Backend/The projects/MVC/GameZone/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/programming/Backend/MVC/Projects/GameZone/Views/Shared/_SelectLang.cshtml]
+[D:/programming/Backend/The projects/MVC/GameZone/Views/Shared/_SelectLang.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZWxlY3RMYW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/programming/Backend/MVC/Projects/GameZone/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/programming/Backend/The projects/MVC/GameZone/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/programming/Backend/MVC/Projects/GameZone/Views/_ViewImports.cshtml]
+[D:/programming/Backend/The projects/MVC/GameZone/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/programming/Backend/MVC/Projects/GameZone/Views/_ViewStart.cshtml]
+[D:/programming/Backend/The projects/MVC/GameZone/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/programming/Backend/MVC/Projects/GameZone/Views/Shared/_Layout.cshtml]
+[D:/programming/Backend/The projects/MVC/GameZone/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-hpxxbwts86
